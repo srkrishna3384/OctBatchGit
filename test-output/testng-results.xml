@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14239" started-at="2020-10-31T12:01:34Z" finished-at="2020-10-31T12:01:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14239" started-at="2020-10-31T12:01:34Z" finished-at="2020-10-31T12:01:48Z">
+      <class name="com.rameshsoft.testone.TestOne">
+        <test-method status="PASS" signature="demoOne()[pri:0, instance:com.rameshsoft.testone.TestOne@7e0babb1]" name="demoOne" duration-ms="14216" started-at="2020-10-31T17:31:34Z" finished-at="2020-10-31T17:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoOne -->
+      </class> <!-- com.rameshsoft.testone.TestOne -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
