@@ -14,6 +14,8 @@ public class TestOne {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		System.out.println("Launch the Chrome Browser...");
+		driver.manage().window().maximize();
+		System.out.println("Maximize the screen..........");
 		driver.get("https://www.rameshsoft.com");
 		System.out.println("Navigate to www.rameshsoft.com");
 		driver.close();
