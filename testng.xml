@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="com.rameshsoft.testone.TestOne"/>
+       <class name="com.rameshsoft.testone.TestTwo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
